@@ -1,4 +1,4 @@
-# Plantilla de api express con docker
+# Docker y node con express api
 
 Esta aplicación es una API RESTful, el objetivo es que veas cómo usar docker con node. Esta api está construida con Node.js y Express que proporciona endpoints para gestionar productos, categorías y usuarios. La aplicación utiliza Sequelize como ORM (Object-Relational Mapping) para interactuar con una base de datos MySQL. La autenticación se implementa mediante JSON Web Tokens (JWT).
 
